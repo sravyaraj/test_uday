@@ -3,3 +3,6 @@ mirchi
 chilli
 chicken
 marinatinon
+ginger
+garlic
+paste
